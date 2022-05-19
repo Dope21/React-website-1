@@ -1,6 +1,6 @@
 # React-Website-TRVL
 
-This is my first React project. It's responsive travel website with a clean design.
+This is my first React project. It's a responsive travel website with a clean design.
 
 ## Stack
 - [React.JS](https://reactjs.org/) - A JavaScript library for building user interfaces.
