@@ -7,13 +7,13 @@ video {
 }
 
 .hero-container {
-    /* background: url('/public/images/img-home.jpg') center center/cover no-repeat; */
+    background: url('/public/images/img-home.jpg') center center/cover no-repeat;
     height: 100vh;
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2);
+    box-shadow: inset 0 0 0 1000px rgba(1, 118, 207, 0.493);
     object-fit: contain;
     justify-content: center;
     text-align: center;
@@ -26,14 +26,13 @@ video {
 }
 
 .hero-container > p {
-    margin-top: 8px;
     color: #fff;
     font-size: 32px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Pacifico', cursive;
 }
 
 .hero-btns {
-    margin-top: 32px;
+    margin-top: 1.5rem;
 }
 
 .hero-btns .btn{

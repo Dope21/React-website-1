@@ -7,7 +7,7 @@
   
   .home,
   .services,
-  .products,
+  .rooms,
   .sign-up {
     display: flex;
     height: 90vh;
@@ -23,23 +23,26 @@
     background-repeat: no-repeat;
     color: #fff;
     font-size: 100px;
+    box-shadow: inset 0 0 0 1000px rgba(1, 118, 207, 0.493);
   }
   
-  .products {
-    background-image: url('../public/images/img-1.jpg');
-    background-position: center;
-    background-size: fill;
-    background-repeat: no-repeat;
-    color: #fff;
-    font-size: 100px;
-  }
-  
-  .sign-up {
+  .rooms {
     background-image: url('../public/images/img-8.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
     font-size: 100px;
+    box-shadow: inset 0 0 0 1000px rgba(1, 118, 207, 0.493);
+  }
+  
+  .sign-up {
+    background-image: url('../public/images/img-9.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+    box-shadow: inset 0 0 0 1000px rgba(1, 118, 207, 0.493);
   }
   

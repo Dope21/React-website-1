@@ -12,8 +12,6 @@ This is my first React project. It's a responsive travel website with a clean de
 - `Reusable components` - Button & CardItem components are reusable by passing the Propt to change style or content inside elements.
 
 ## Design
-![Full-Design](public/design/4.png)
-![Mobile-Design](public/design/5.png)
+![Full-Design](public/design/3.png)
 ![Hero-Section](public/design/1.png)
-![Card-Section](public/design/2.png)
-![Footer-Section](public/design/3.png)
+![Mobile-Design](public/design/2.png)

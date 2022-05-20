@@ -61,13 +61,13 @@
     content: attr(data-category);
     position: absolute;
     bottom: 0;
-    margin-left: 10px;
+    margin-bottom: 1rem;
     padding: 6px 8px;
     max-width: calc((100%) - 60px);
-    font-size: 12px;
+    font-size: 1.2rem;
     font-weight: 700;
     color: #fff;
-    background-color: #1f98f4;
+    background-color: #f99e3e;
     box-sizing: border-box;
   }
   
@@ -115,6 +115,12 @@
   @media only screen and (max-width: 1024px) {
     .cards-item {
       margin-bottom: 2rem;
+    }
+  }
+
+  @media screen and (max-width: 424px) {
+    .cards{
+      padding: 4rem 1rem;
     }
   }
   
