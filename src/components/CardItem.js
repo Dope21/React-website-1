@@ -11,7 +11,7 @@ function CardItem({
         <li className="cards-item">
             <Link to={path} className="cards-link">
                 <figure className="cards-img-wrapper" data-category={label}>
-                    <img src={src} alt="Travel Imgae" 
+                    <img src={src} alt="Blog" 
                     className="cards-img"/>
                 </figure>
                 <div className="cards-info">
