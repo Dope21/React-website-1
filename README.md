@@ -2,6 +2,8 @@
 
 This is my first React project. It's a responsive Hotel website with a clean design.
 
+## Demo [https://thanasak-demo-sandbox.netlify.app](https://thanasak-demo-sandbox.netlify.app)
+
 ## Stack
 - [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [CSS](https://www.w3schools.com/css/) - A language used to style an HTML document. 
