@@ -2,7 +2,7 @@
 
 This is my first React project. It's a responsive Hotel website with a clean design.
 
-## Live Demo [https://thanasak-demo-sandbox.netlify.app](https://thanasak-demo-sandbox.netlify.app)
+## [Live Demo](https://thanasak-demo-sandbox.netlify.app)
 
 ## Stack
 - [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces.
